@@ -8,7 +8,7 @@
 
         <div class="col-sm-6">
 
-          <h1>Blog</h1>
+          <h1>Configuración</h1>
 
         </div>
 
