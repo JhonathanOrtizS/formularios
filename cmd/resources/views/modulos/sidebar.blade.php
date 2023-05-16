@@ -38,9 +38,9 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a href="http://localhost/eva180-prueba/public/asignaciones" class="nav-link">
+                <a href="#" class="nav-link">
                     <i class="nav-icon fa-solid fa-pen-to-square"></i>
-                    <p>Asignaciones</p>
+                    <p>Tramites</p>
                 </a>
             </li>
           
